@@ -30,3 +30,14 @@ e.g. When you hit **run**, this is what should happen:
 2. Think about what you learnt about subscripting.
 3. Think about type conversion.
 
+# 🚨 Don't change the code below 👇
+two_digit_number = input("Type a two digit number: ")
+# 🚨 Don't change the code above 👆
+
+####################################
+#Write your code below this line 👇
+first_digit = two_digit_number[0]
+second_digit = two_digit_number[1]
+result = int(first_digit) + int(second_digit)
+print(result)
+
