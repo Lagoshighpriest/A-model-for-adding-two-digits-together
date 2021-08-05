@@ -29,6 +29,7 @@ e.g. When you hit **run**, this is what should happen:
 1. Try to find out the data type of two_digit_number.
 2. Think about what you learnt about subscripting.
 3. Think about type conversion.
+#solution:
 
 # 🚨 Don't change the code below 👇
 two_digit_number = input("Type a two digit number: ")
